@@ -15,7 +15,7 @@ const canvas = createCanvas({
 const imageUrl = getImageURL();
 
 // whether to always rotate the view
-const autoSpin = false;
+const autoSpin = true;
 
 // Load your image
 const image = new Image();
